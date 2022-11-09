@@ -13,6 +13,7 @@ El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades 
 # Integrantes: 
 - Javier Fernando Gamboa Torres
 - Danilo José Gómez Comas
+- Jhonnys de Avila
 
 # Link video Youtube: 
 
