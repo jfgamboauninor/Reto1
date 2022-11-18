@@ -15,7 +15,8 @@ El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades 
 - Danilo José Gómez Comas
 - Jhonnys de Avila
 
-# Link video Youtube: 
+# Link del video: 
+https://uninorte-my.sharepoint.com/:v:/g/personal/jfgamboa_uninorte_edu_co/EbkqNsApcJFHpCJ6oBGw5C0BtzZJ7G_UxVo98p4VktynPg?e=wrihQj
 
 
 
